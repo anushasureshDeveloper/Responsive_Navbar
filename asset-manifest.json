@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Responsive_Navbar/static/css/main.ba4c1a7c.css",
+    "main.js": "/Responsive_Navbar/static/js/main.cfea4028.js",
+    "index.html": "/Responsive_Navbar/index.html",
+    "main.ba4c1a7c.css.map": "/Responsive_Navbar/static/css/main.ba4c1a7c.css.map",
+    "main.cfea4028.js.map": "/Responsive_Navbar/static/js/main.cfea4028.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba4c1a7c.css",
+    "static/js/main.cfea4028.js"
+  ]
+}
